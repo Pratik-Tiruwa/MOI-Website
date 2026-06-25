@@ -1,0 +1,229 @@
+You are a senior UI/UX designer and frontend engineer.
+
+Your task is to DESIGN and BUILD a premium, modern, high-performance agency website for a creator management and influencer marketing startup.
+
+This is NOT a basic or template website. The final result must feel like a real, human-designed, high-end agency website — not AI-generated.
+
+---
+
+## 🎯 Objective
+
+Create a website that feels:
+
+* Premium and intentional
+* Smooth and interactive
+* Clean and structured
+* Conversion-focused
+
+Design balance:
+
+* 60% modern / Gen-Z (motion, interactions, bold layouts)
+* 40% professional (clean typography, spacing, trust)
+
+---
+
+## ⚙️ Tech Stack (strict)
+
+* Next.js (App Router)
+* Tailwind CSS
+* GSAP (ScrollTrigger for animations)
+* Framer Motion (micro-interactions only)
+* No heavy backend unless required
+
+---
+
+## 🎨 Branding & Content (VERY IMPORTANT)
+
+* Use the attached PDF as the **primary source of truth**
+
+* Extract and apply from PDF:
+
+  * Color palette
+  * Typography style
+  * Font sizes
+  * Font colors
+  * Spacing and layout tone
+  * Content (reuse and format properly)
+
+* Use the attached **MOI logo strictly**
+
+  * Place in navbar (top-left) and footer
+  * Do NOT distort or recolor
+  * Maintain proper spacing and proportions
+
+---
+
+## 🧠 DESIGN FIRST APPROACH (MANDATORY)
+
+Before coding:
+
+* Define layout system (grid, spacing)
+* Define typography hierarchy
+* Define color usage from logo + PDF
+* Define section structure
+
+Then implement.
+
+---
+
+## 🎨 Visual Direction (STRICT)
+
+* Clean, modern, slightly bold UI
+* Dark or high-contrast base design preferred
+* Use accent colors from logo (blue/pink tones)
+* Strong spacing (premium feel)
+* Avoid clutter
+
+---
+
+## 🚫 DO NOT
+
+* Do NOT generate template-like design
+* Do NOT stack boring plain sections
+* Do NOT overuse animations
+* Do NOT use random colors outside PDF theme
+* Do NOT make overly flashy or childish UI
+* Avoid “overdesigned” look
+
+---
+
+## 📱 MOBILE RESPONSIVENESS (CRITICAL - NON NEGOTIABLE)
+
+* Mobile-first design approach
+* Website must NOT break, overflow, or misalign on any screen size
+* Proper scaling for:
+
+  * Text
+  * Images
+  * Sections
+  * Grid layouts
+* Maintain consistent spacing and readability on small screens
+* Navigation must be clean and usable (hamburger menu)
+* Touch-friendly buttons (proper padding and spacing)
+* Test layouts for:
+
+  * Small phones
+  * Tablets
+  * Large screens
+
+👉 The website should feel smooth and stable on mobile — no layout breaking or “phatna”.
+
+---
+
+## ⚡ PERFORMANCE & OPTIMIZATION (CRITICAL)
+
+* Target smooth 60fps animations
+* Avoid heavy or unnecessary JavaScript
+* Optimize GSAP usage (only where needed)
+* Use lazy loading for images and sections
+* Optimize images (Next.js Image component)
+* Minimize re-renders
+* Avoid blocking resources
+* Ensure fast initial load time (<2 seconds ideal)
+
+👉 Website must NOT lag, stutter, or feel heavy — especially on mobile devices.
+
+---
+
+## ⚡ Interaction & Animation (IMPORTANT)
+
+### Cursor
+
+* Custom cursor (minimal and clean)
+* Slight expand or highlight on hover
+* Keep it subtle, not distracting
+
+### Buttons
+
+* Smooth hover transitions
+* Slight scale + soft glow
+* Optional magnetic effect (light, not aggressive)
+
+### Scroll Animations (GSAP)
+
+* Fade-up animations
+* Staggered reveals
+* Light parallax (only key sections)
+* Smooth and fast (no lag)
+
+---
+
+## 🧩 Section Behavior (NOT just layout)
+
+### Hero
+
+* Full screen height
+* Strong bold heading
+* Subtext + CTA
+* Subtle animated background
+
+### Services
+
+* Card layout
+* Hover = lift + glow
+
+### Stats
+
+* Count-up animation (on scroll)
+
+### Creators
+
+* Grid layout
+* Hover overlay + image zoom
+* Click → Instagram
+
+### Partners
+
+* Smooth horizontal scrolling logos
+
+### Contact
+
+* Minimal form
+* Clean layout
+* Strong CTA
+
+---
+
+## 🧭 UX Flow
+
+The user should feel:
+
+1. This looks premium
+2. This brand is trustworthy
+3. They have proof/results
+4. I should contact them
+
+Include CTA every 1–2 sections.
+
+---
+
+## 🧱 Code Quality
+
+* Component-based structure
+* Reusable components
+* Clean folder structure
+* Separate animation logic
+
+---
+
+## 📦 Output
+
+* Full project structure
+* Key components code
+* Animation implementation examples
+* Responsive design implementation
+
+---
+
+## 🎯 Final Goal
+
+The website should:
+
+* Feel handcrafted (not AI-generated)
+* Be visually premium and modern
+* Be smooth and interactive
+* Be fully responsive and stable on all devices
+* Be fast, optimized, and lag-free
+* Be clean, not overdesigned
+
+It should look like a real designer and developer built it with attention to detail.
